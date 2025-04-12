@@ -1,8 +1,8 @@
 {
-  "auth_key": "PSH1114",
+  "auth_key": "PSH1117",
   "required_version": "1.0",
   "blacklist": [
-    "01056377311",
+    "010",
     "01012345678"
   ]
 }
