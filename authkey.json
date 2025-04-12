@@ -1,6 +1,6 @@
 {
   "auth_key": "PSH",
-  "required_version": "2.0",
+  "versionName": "2.0",
   "blacklist": [
     "01099998888",
     "01012345678"
