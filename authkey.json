@@ -1,6 +1,6 @@
 {
   "auth_key": "PSH117",
-  "required_version": "2.0",
+  "required_version": "1.0",
   "blacklist": [
     "010",
     "01012345678"
